@@ -1,0 +1,84 @@
+[
+    {
+      "question": "What does CSS stand for?",
+      "choice1": "Creative Style Sheets",
+      "choice2": "Computer Style Sheets",
+      "choice3": "Cascading Style Sheets",
+      "choice4": "Colorful Style Sheets",
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a component of CSS style rule?",
+      "choice1": "Selector",
+      "choice2": "Property",
+      "choice3": "Value",
+      "choice4": "All of the above",
+      "answer": 4
+    },
+    {
+      "question": "Which of the following property is used to control the repetition of an image in the background?",
+      "choice1": "background-color",
+      "choice2": "background-image",
+      "choice3": "background-repeat",
+      "choice4": "background-position",
+      "answer": 3
+    },
+    {
+      "question": "Which of the following property is used to control the flow and formatting of text?",
+      "choice1": "white-space",
+      "choice2": "text-shadow",
+      "choice3": "text-decoration",
+      "choice4": "text-transform",
+      "answer": 1
+    },
+    {
+      "question": "How can you created rounded corners using CSS3?",
+      "choice1": "border[round]: 30px;",
+      "choice2": "corner-effect: round;",
+      "choice3": "border-radius: 30px;",
+      "choice4": "alpha-effect: round-corner;",
+      "answer": 3
+    },
+    {
+      "question": "How to you modify a border image using CSS3?",
+      "choice1": "border: url(image.png);",
+      "choice2": "border-variable: image url(image.png);",
+      "choice3": "border-image: url(border.png) 30 30 round;",
+      "choice4": "None",
+      "answer": 3
+    },
+    {
+      "question": "How to add text shadow using CSS3?",
+      "choice1": "font: shadowed 5px 5px 5px grey;",
+      "choice2": "font-shadow: 5px 5px 5px grey;",
+      "choice3": "text-shadow: 5px 5px 5px grey; ",
+      "choice4": "shadow: text 5px 5px 5px grey;",
+      "answer": 3
+    },
+    {
+      "question": "How to force a word wrap using CSS3?",
+      "choice1": "word-wrap: break-word;",
+      "choice2": "text-wrap: break-word;",
+      "choice3": "text-wrap: force;",
+      "choice4": "text-width: set;",
+      "answer": 1
+    },
+    {
+      "question": "Which of these are valid CSS3 transformation statements?",
+      "choice1": "matrix()",
+      "choice2": "modify()",
+      "choice3": "skip()",
+      "choice4": "simulate()",
+      "answer": 1
+    },
+    {
+      "question": "What does RGBa mean?",
+      "choice1": "Review Get assistance Back-up your information acquire proof",
+      "choice2": "Red Green Blue alpha",
+      "choice3": "Red Gray Brown alpha ",
+      "choice4": "Red Gold Black alpha",
+      "answer": 2
+    }
+
+  ]
+  

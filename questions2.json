@@ -1,0 +1,83 @@
+[
+    {
+      "question": "HTML stands for: ",
+      "choice1": "Hyper Text Markup Language",
+      "choice2": "Hyperlinks and Text Markup Language",
+      "choice3": "Home Tool Markup Language",
+      "choice4": "None",
+      "answer": 1
+    },
+    {
+      "question": "How is document type initialized in HTML5?",
+      "choice1": "</DOCTYPE HTML>",
+      "choice2": "</DOCTYPE>",
+      "choice3": "<!DOCTYPE HTML>",
+      "choice4": "</DOCTYPE html>",
+      "answer": 3
+    },
+    {
+      "question": "Which of the following attributes is used to add link to any element?",
+      "choice1": "link",
+      "choice2": "href",
+      "choice3": "ref",
+      "choice4": "newref",
+      "answer": 2
+    },
+    {
+      "question": "Which of the following characters indicate closing of a tag?",
+      "choice1": "*",
+      "choice2": "/",
+      "choice3": ",",
+      "choice4": "!",
+      "answer": 2
+    },
+    {
+      "question": "What is the difference between XML and HTML?",
+      "choice1": "HTML is used for exchanging data, XML is not.",
+      "choice2": "XML is used for exchanging data, HTML is not",
+      "choice3": "HTML can have user defined tags, XML cannot",
+      "choice4": "None of the above",
+      "answer": 2
+    },
+    {
+      "question": "Opening Tag of HTML Tag is called as ________.",
+      "choice1": "Closed Tag",
+      "choice2": "Starting Tag",
+      "choice3": "Forward Tag",
+      "choice4": "Ending Tag",
+      "answer": 2
+    },
+    {
+      "question": "HTML program is saved using _________ extension.",
+      "choice1": ".htl",
+      "choice2": ".html",
+      "choice3": ".htm",
+      "choice4": ".ht",
+      "answer": 2
+    },
+    {
+      "question": "Who was the primary author of HTML?",
+      "choice1": "Brendan Eich",
+      "choice2": "Sabeer Bhatiya",
+      "choice3": "Google Inc.",
+      "choice4": "Tim Berners-Lee",
+      "answer": 4
+    },
+    {
+      "question": "Which of the following is valid colour code ?",
+      "choice1": "#000000",
+      "choice2": "#00000",
+      "choice3": "#000",
+      "choice4": "#000000000",
+      "answer":1 
+    },
+    {
+      "question": "Which of the following is used increase the row height?",
+      "choice1": "Cellspacing",
+      "choice2": "Cellpadding",
+      "choice3": "Rowspan",
+      "choice4": "Colspan",
+      "answer": 3
+    }
+  ]
+  

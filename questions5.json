@@ -1,0 +1,91 @@
+[
+    {
+      "question": "How can we generate random numbers in python using methods?",
+      "choice1": "random.uniform ()",
+      "choice2": "random.randint()",
+      "choice3": "random.random()",
+      "choice4": "All of the above",
+      "answer": 4
+    },
+    {
+      "question": "What command is used to shuffle a list ‘L’ ",
+      "choice1": "L.shuffle()",
+      "choice2": "random.shufflelist(L)",
+      "choice3": "shuffle(L)",
+      "choice4": "random.Shuffle(L)",
+      "answer": 4
+    },
+    {
+      "question": "Which code is used to open a file for binary writing?",
+      "choice1": "'w'",
+      "choice2": "'wb'",
+      "choice3": "'r+'",
+      "choice4": "'a'",
+      "answer": 2
+    },
+    {
+      "question": "Which module is used in python to create Graphics?",
+      "choice1": "Turtle",
+      "choice2": "Canvas",
+      "choice3": "Tkinter",
+      "choice4": "Graphics",
+      "answer": 1
+    },
+    {
+      "question": "Given a function that does not return any value, what value is shown when executed at the shell?",
+      "choice1": "int",
+      "choice2": "bool",
+      "choice3": "void",
+      "choice4": "None",
+      "answer": 4
+    },
+    {
+      "question": "Which of the following is not a complex number?",
+      "choice1": "k = 2 + 3j",
+      "choice2": "k = complex(2, 3)",
+      "choice3": "k = 2 + 3l",
+      "choice4": "k = 2 + 3J",
+      "answer": 3
+    },
+    {
+      "question": "What does ~~~~~~5 evaluate to?",
+      "choice1": "+5",
+      "choice2": "-11",
+      "choice3": "+11",
+      "choice4": "-5",
+      "answer": 1
+    },
+    {
+      "question": "Given a string s = “Welcome”, which of the following code is incorrect?",
+      "choice1": "print s[0]",
+      "choice2": "print s.lower()",
+      "choice3": "s[1] = ‘r’",
+      "choice4": "print s.strip()",
+      "answer": 3
+    },
+    {
+      "question": "________ is a simple but incomplete version of a function.",
+      "choice1": "Stub",
+      "choice2": "Function",
+      "choice3": "A function developed using bottom - up approach",
+      "choice4": "A function developed using top - down approach",
+      "answer": 1
+    },
+    {
+      "question": "To start Python from the command prompt, use the command: ",
+      "choice1": "execute python",
+      "choice2": "go python",
+      "choice3": "python",
+      "choice4": "run python",
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is correct about Python?",
+      "choice1": "It supports automatic garbage collection",
+      "choice2": "It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java",
+      "choice3": "Both of the above",
+      "choice4": "None of the above",
+      "answer": 3
+    }
+  ]
+  

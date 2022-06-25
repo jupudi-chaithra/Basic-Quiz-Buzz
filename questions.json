@@ -1,0 +1,83 @@
+[
+  
+  {
+    "question": "1. Inside which HTML element do we put the JavaScript?",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 1
+  },
+  {
+    "question": "2. What is the correct syntax for referring to an external script called 'xxx.js'?",
+    "choice1": "<script href='xxx.js'>",
+    "choice2": "<script name='xxx.js'>",
+    "choice3": "<script src='xxx.js'>",
+    "choice4": "<script file='xxx.js'>",
+    "answer": 3
+  },
+  {
+    "question": "3. How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+  },
+  {
+    "question": "4. Which of the following is true about variable naming conventions in JavaScript?",
+    "choice1": "You should not use any of the JavaScript reserved keyword as variable name.",
+    "choice2": "JavaScript variable names should not start with a numeral (0-9).",
+    "choice3": "Both of the above",
+    "choice4": "None of the above",
+    "answer": 3
+  },
+  {
+    "question": "5. Which of the following is a server-side Java Script object?",
+    "choice1": "Function",
+    "choice2": "File",
+    "choice3": "FileUpload",
+    "choice4": "Date",
+    "answer": 2
+  },
+  {
+    "question": "6. Which of the below is used in Java script to insert special characters?",
+    "choice1": "*",
+    "choice2": "\\",
+    "choice3": "-",
+    "choice4": "%",
+    "answer": 2
+  },
+  {
+    "question": "7. How does Java Script store dates in objects of Date type?",
+    "choice1": "The number of days since January 1st, 1900",
+    "choice2": "The number of seconds since January 1st, 1970",
+    "choice3": "The number of milliseconds since January 1st, 1970",
+    "choice4": "The number of picoseconds since January 1st, 1970",
+    "answer": 3
+  },
+  {
+    "question": "8. Which is the correct way to write a JavaScript array?",
+    "choice1": "var txt = new Array(1:\"arr\",2:\"kim\",3:\"jim\")",
+    "choice2": "var txt = new Array:1=(\" arr \")2=(\"kim\")3=(\"jim\")",
+    "choice3": "var txt = new Array(\"arr \",\"kim\",\"jim\") ",
+    "choice4": "var txt = new Array=\" arr \",\"kim\",\"jim\"",
+    "answer": 3
+  },
+  {
+    "question": "9. Which of the following is the tainted property of a window object in Java Script?",
+    "choice1": "Pathname",
+    "choice2": "Protocol",
+    "choice3": "Defaultstatus",
+    "choice4": "Host",
+    "answer": 3
+  },
+  {
+    "question": "10. Which attribute needs to be changed to make elements invisible?",
+    "choice1": "visibility",
+    "choice2": "visible",
+    "choice3": "invisible",
+    "choice4": "invisibilty",
+    "answer": 1
+  }
+]
